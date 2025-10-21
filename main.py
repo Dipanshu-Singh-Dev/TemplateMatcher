@@ -1,2 +1,3 @@
 from modules import matcher
-matcher()
+
+matcher.run()

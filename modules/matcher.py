@@ -1,4 +1,4 @@
-def main():
+def run():
     import cv2
     import numpy as np
 
